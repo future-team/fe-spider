@@ -1,0 +1,29 @@
+{
+  "name": "fe-spider",
+  "version": "0.0.3",
+  "description": "spider for future-team",
+  "main": "src/spider",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "demo": "node example/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/future-team/fe-spider.git"
+  },
+  "keywords": [
+    "spider",
+    "fe"
+  ],
+  "author": "qianjin.pan@dianping.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/future-team/fe-spider/issues"
+  },
+  "homepage": "https://github.com/future-team/fe-spider#readme",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "express": "^4.14.1",
+    "superagent": "^3.4.1"
+  }
+}
