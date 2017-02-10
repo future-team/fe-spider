@@ -4,7 +4,6 @@
   "description": "spider for future-team",
   "main": "src/spider",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "demo": "node example/test.js"
   },
   "repository": {
